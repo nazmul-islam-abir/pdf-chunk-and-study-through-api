@@ -47,7 +47,7 @@ class _PdfChunkScreenState extends State<PdfChunkScreen> {
   late GenerativeModel model;
 
   // PUT YOUR GEMINI API KEY HERE
-  final String apiKey = "AIzaSyC7P8c8ItqGTgCl0xVgkd_2x3eIuZ2Y7t8";
+  final String apiKey = "";
 
   bool isModelInitialized = false;
 
